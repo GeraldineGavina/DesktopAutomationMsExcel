@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T005 - Verify whether the application gives the correct value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fce280f-d5e3-4f93-91ce-d0658a6b753b</testCaseGuid>
+</TestCaseEntity>

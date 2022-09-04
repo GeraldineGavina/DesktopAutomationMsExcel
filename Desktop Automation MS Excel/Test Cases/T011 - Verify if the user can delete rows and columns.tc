@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T011 - Verify if the user can delete rows and columns</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f97b14e1-0bb0-4aee-b7d6-21f2cc120b5d</testCaseGuid>
+</TestCaseEntity>

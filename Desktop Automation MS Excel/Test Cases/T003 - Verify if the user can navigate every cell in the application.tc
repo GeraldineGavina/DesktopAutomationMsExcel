@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T003 - Verify if the user can navigate every cell in the application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b9e2819-3eec-4df5-b4da-aa98697cacc9</testCaseGuid>
+</TestCaseEntity>

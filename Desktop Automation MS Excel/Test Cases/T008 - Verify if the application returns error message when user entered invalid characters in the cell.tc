@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T008 - Verify if the application returns error message when user entered invalid characters in the cell</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9008aa65-ab1b-4ea4-97f0-0bf8da85a7d1</testCaseGuid>
+</TestCaseEntity>

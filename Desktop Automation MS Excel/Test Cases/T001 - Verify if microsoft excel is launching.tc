@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T001 - Verify if microsoft excel is launching</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09fd01ab-9fc7-4f8c-aa6c-c75b7d8a2db8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T013 - Verify if the application can save the workbook when the user exit the application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a675e3d-dc69-4d99-be63-059e3dc46520</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T012 - Verify the user can copy and paste multiple cells in the application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2166601-af3b-4da9-a24c-b76b0f8c54c8</testCaseGuid>
+</TestCaseEntity>
